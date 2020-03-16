@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "nexmond"
+  id:               "develog-3"
 
 # URL
 url:              "https://nexmond.github.io" # the base hostname & protocol for your site

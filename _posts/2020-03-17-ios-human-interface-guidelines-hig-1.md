@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "iOS Human Interface Guidelines (HIG) 1"
+description:
 date: cT03:00:00+09:00
 tags: [HIG, iOS]
 comments: true

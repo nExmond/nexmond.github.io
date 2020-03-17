@@ -2,8 +2,8 @@
 layout: post
 title: "iOS Human Interface Guidelines (HIG) 1"
 description: "iOS 개발자로서 협업을 하다보면, iOS의 특징에 대해 설명해야 할 때가 있습니다."
-date: cT03:00:00+09:00
-tags: [HIG, iOS]
+date: 2020-03-17T03:00:00+09:00
+tags: [HIG, iOS, Theme]
 comments: true
 share: true
 ---

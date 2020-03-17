@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-**[이전 포스팅](/ios-human-interface-guidelines-hig-2/)**에서는 iOS의 핵심을 언급했습니다.
+**[이전 포스팅](/2020-03-17/ios-human-interface-guidelines-hig-1/)**에서는 iOS의 핵심을 언급했습니다.
 
 그렇다면 iOS의 테마를 실현하기 위해서는 어떤 것이 필요할까요?
 
@@ -39,6 +39,8 @@ UIView, UIScrollView, UIStackView 등이 있습니다.
 사용자가 조작할 수 있는 뷰의 한 종류입니다. 컨트롤을 통해서 앱을 통제하는 느낌을 받습니다.
 
 UIButton, UISwitch, UITextView, UISlider 등이 있습니다.
+
+---
 
 UIKit은 그 외에도 사용자가 위의 요소들과 상호작용 할 수 있도록 보조하는 여러 기능을 포함하고 있습니다.
 
